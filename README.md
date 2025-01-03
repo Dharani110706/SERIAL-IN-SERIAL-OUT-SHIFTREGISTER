@@ -65,7 +65,7 @@ end
 **RTL LOGIC FOR SISO Shift Register**
 ![image](https://github.com/user-attachments/assets/3c26e6fa-50ff-463c-a7b0-371fedfff8ab)
 
-**TIMING DIAGRAMS FOR SISO Shift Register**
+**TIMING DIAGRAM FOR SISO Shift Register**
 
 ![image](https://github.com/user-attachments/assets/acae0bad-6f18-4c90-abe3-9bfb9badb25a)
 
